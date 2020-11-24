@@ -11,8 +11,7 @@ monstrous function, which includes many options for making comparisons with othe
 it can be called in a straightforward way simply by providing a signal and a sample rate.
 
 The paper also contains an appendix providing the results of the simulation of a bushy
-cell in the cochlear nucleus recieving a nearly-harmonic input signal.  This material is contained in a separate repository, 
-namely this one.
+cell in the cochlear nucleus recieving a nearly-harmonic input signal.  This material is contained in a separate repository.
 
 
 ## References

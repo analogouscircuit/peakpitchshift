@@ -1,4 +1,4 @@
-# How To Pick a Peak
+# How to Pick a Peak
 This repository contains all the essential code necessary to reproduce the results presented in Dahlbom and Braasch (2020),
 including a complete implementation of the pitch model presented there. Precise reproduction of the figures requires trial data
 that are not included in this repository (they are too large), but I am happy to provide them on request.
